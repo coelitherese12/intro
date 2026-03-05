@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p><strong>Coeli Therese Brillante</strong></p>
+        <p><strong>Coeli Therese G. Brillante</strong></p>
         <ul>
           <li>When you think about a "perfect" website, are you more drawn to how it (UI/UX, animations, layouts) or how it (databases, user authentication, logic)? Explain why.</li>
           <p>I am more drawn to the visual and interactive aspects of a website, such as UI/UX and animations, because they directly impact the user's emotional connection and engagement. While backend logic is crucial for functionality, the frontend is what ultimately captures attention and defines the overall experience.</p>
